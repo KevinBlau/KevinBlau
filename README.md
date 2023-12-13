@@ -1,17 +1,15 @@
 <h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevinBlau">Programmer</a></h1>
 
-<h2>Software Development Projects:</h2>
+<h2>Cyber Security Projects:</h2>
 
 - <b>Multimedia Company DDoS Attack: Incident Report Analysis</b>
   - [Praciting applying NIST CSF](link)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Apply filters to SQL queries </b>
+  - [Retrieve login attempts](link)
+- <b>Linux Command Line</b>
+  - [Manage File Permissions](link)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Update file data](link)
 
 
 <h2>Connect with me:</h2>
