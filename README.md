@@ -7,7 +7,7 @@
 - <b>Apply filters to SQL queries </b>
   - [Retrieve login attempts](link)
 - <b>Linux Command Line</b>
-  - [Manage File Permissions](link)
+  - [Manage file permissions](link)
 - <b>Python</b>
   - [Update file data](link)
 
