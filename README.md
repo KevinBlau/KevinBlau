@@ -10,6 +10,17 @@
   - [Manage file permissions](link)
 - <b>Python</b>
   - [Update file data](link)
+ 
+<h2>Machine Learning Projects:</h2>
+
+- <b>Multimedia Company DDoS Attack: Incident Report Analysis</b>
+  - [Praciting applying NIST CSF](link)
+- <b>Apply filters to SQL queries </b>
+  - [Retrieve login attempts](link)
+- <b>Linux Command Line</b>
+  - [Manage file permissions](link)
+- <b>Python</b>
+  - [Update file data](link)
 
 
 <h2>Connect with me:</h2>
