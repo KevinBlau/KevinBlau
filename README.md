@@ -5,20 +5,20 @@
 - <b>Multimedia Company DDoS Attack: Incident Report Analysis</b>
   - [Praciting applying NIST CSF](link)
 - <b>Apply filters to SQL queries </b>
-  - [Retrieve login attempts](link)
+  - [Retrieving login attempts](link)
 - <b>Linux Command Line</b>
-  - [Manage file permissions](link)
+  - [Managing file permissions](link)
 - <b>Python</b>
-  - [Update file data](link)
+  - [Updating file data](link)
  
 <h2>Machine Learning Projects:</h2>
 
-- <b>Multimedia Company DDoS Attack: Incident Report Analysis</b>
-  - [Praciting applying NIST CSF](link)
-- <b>Apply filters to SQL queries </b>
-  - [Retrieve login attempts](link)
-- <b>Linux Command Line</b>
-  - [Manage file permissions](link)
+- <b>Logistic Regression</b>
+  - [implementing logistic regression to two different datasets](link)
+- <b>Decision Trees</b>
+  - [implementing a decision tree from scratch and appling it to the task of classification](link)
+- <b>Deep Learning for Content-Based Filtering</b>
+  - [building a recommender system for movies using a neural network](link)
 - <b>Deep Q-Learning - Lunar Lander</b>
   - [Implementing and training A.I. using reinforcement learning to successfully land a lunar lander](link)
 
