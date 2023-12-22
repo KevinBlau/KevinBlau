@@ -5,11 +5,11 @@
 - <b>Multimedia Company DDoS Attack: Incident Report Analysis</b>
   - [Praciting applying NIST CSF](https://github.com/KevinBlau/Cybersecurity/blob/main/Incident_Handler_Journal.pdf)
 - <b>Apply filters to SQL queries </b>
-  - [Retrieving login attempts]([link](https://github.com/KevinBlau/Cybersecurity/blob/main/Apply_Filters_To_SQL_Queries.pdf))
+  - [Retrieving login attempts](https://github.com/KevinBlau/Cybersecurity/blob/main/Apply_Filters_To_SQL_Queries.pdf)
 - <b>Linux Command Line</b>
-  - [Managing file permissions]([link](https://github.com/KevinBlau/Cybersecurity/blob/main/File_Permissions_In_Linux.pdf))
+  - [Managing file permissions](https://github.com/KevinBlau/Cybersecurity/blob/main/File_Permissions_In_Linux.pdf)
 - <b>Python</b>
-  - [Updating file data](link)
+  - [Updating file data](https://github.com/KevinBlau/Cybersecurity/blob/main/File_Updates_Algorithm.pdf)
  
 <h2>Machine Learning Projects:</h2>
 
