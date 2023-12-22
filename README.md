@@ -19,8 +19,8 @@
   - [Retrieve login attempts](link)
 - <b>Linux Command Line</b>
   - [Manage file permissions](link)
-- <b>Python</b>
-  - [Update file data](link)
+- <b>Deep Q-Learning - Lunar Lander</b>
+  - [Implementing and training A.I. using reinforcement learning to successfully land a lunar lander](link)
 
 
 <h2>Connect with me:</h2>
