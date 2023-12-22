@@ -3,7 +3,7 @@
 <h2>Cyber Security Projects:</h2>
 
 - <b>Multimedia Company DDoS Attack: Incident Report Analysis</b>
-  - [Praciting applying NIST CSF]([link](https://github.com/KevinBlau/Cybersecurity/blob/main/Incident_Handler_Journal.pdf))
+  - [Praciting applying NIST CSF](https://github.com/KevinBlau/Cybersecurity/blob/main/Incident_Handler_Journal.pdf)
 - <b>Apply filters to SQL queries </b>
   - [Retrieving login attempts]([link](https://github.com/KevinBlau/Cybersecurity/blob/main/Apply_Filters_To_SQL_Queries.pdf))
 - <b>Linux Command Line</b>
